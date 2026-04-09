@@ -251,15 +251,4 @@ Prepare answers for:
 
 ---
 
-# 🧑‍💻 Your Task (Important)
-
-Write **short answers** for:
-
-1. Define Operating System
-2. List 5 functions of OS
-3. Explain Kernel
-4. Explain Time-Sharing OS
-
-If you send your answers, I can **correct them like an interviewer** ✅
-
 
