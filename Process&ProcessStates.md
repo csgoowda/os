@@ -237,14 +237,5 @@ Practice these:
 
 ---
 
-# 🧑‍💻 Practice Task (Very Important)
 
-Write answers for:
-
-1️⃣ Define Process
-2️⃣ List 5 Process States
-3️⃣ Explain PCB
-4️⃣ Explain Context Switching
-
-Send your answers — I can **check and correct like an interviewer**. ✅
 
