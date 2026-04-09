@@ -1,5 +1,3 @@
-same
-Good 👍 — this is a **very nice Day-1 summary**. Since you're preparing for **interviews (OS + OOP + DSA)**, I'll **refine your notes**, fix wording, and add **interview-ready explanations** so you can **write or speak confidently**. 🚀
 
 ---
 
